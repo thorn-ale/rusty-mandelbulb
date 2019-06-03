@@ -1,0 +1,9 @@
+[package]
+name = "mandelbulb"
+version = "0.1.0"
+authors = ["Léo Rousseau <leo.rousseau@worldline.com>"]
+edition = "2018"
+
+[dependencies]
+num = "0.2.0"
+png = "0.14.1"
